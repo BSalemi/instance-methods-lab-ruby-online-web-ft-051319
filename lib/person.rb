@@ -1,6 +1,6 @@
 class Person
 
   def talk
-  end 
-  
-end 
+  end
+
+end
